@@ -1,14 +1,18 @@
 # Shape Change
 ## this is a OpenGl Code to make a 2D square to change its coordinates as translation, Rotation, Scaling
 
-*__Translating__
+	* __Translating__
 
-![screenshot here](/screens/trans1.gif)
+	![screenshot here](/screens/trans1.gif)
 
-*__Translating__
+	* __Rotating__
 
-![screenshot here](/screens/trans1.gif)
+	![screenshot here](/screens/rotate.gif)
 
-*__Translating__
+	* __Scaling__
 
-![screenshot here](/screens/trans1.gif)
+	![screenshot here](/screens/scale.gif)
+
+	* __Compination__
+
+	![screenshot here](/screens/compine.gif)
