@@ -1,3 +1,17 @@
 ﻿  main.cpp
+c:\users\engma\source\repos\shape change\shape change\main.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\engma\source\repos\shape change\shape change\main.cpp(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\engma\source\repos\shape change\shape change\main.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\engma\source\repos\shape change\shape change\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\engma\source\repos\shape change\shape change\main.cpp(138): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\engma\source\repos\shape change\shape change\main.cpp(143): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\engma\source\repos\shape change\shape change\main.cpp(148): warning C4305: 'argument': truncation from 'double' to 'float'
   Shape change.vcxproj -> C:\Users\engma\source\repos\Shape change\Debug\Shape change.exe
   Shape change.vcxproj -> C:\Users\engma\source\repos\Shape change\Debug\Shape change.pdb (Partial PDB)
